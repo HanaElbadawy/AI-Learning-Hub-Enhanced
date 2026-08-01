@@ -1,0 +1,78 @@
+[
+  {
+    "query": "How do I create an agent with tools in LangChain?",
+    "relevant_titles": ["langchain agents"]
+  },
+  {
+    "query": "How does short-term memory work in an agent?",
+    "relevant_titles": ["short-term-memory"]
+  },
+  {
+    "query": "How does long-term memory work across conversations?",
+    "relevant_titles": ["concepts memory", "long-term-memory"]
+  },
+  {
+    "query": "How do I get structured output from a model?",
+    "relevant_titles": ["structured-output"]
+  },
+  {
+    "query": "How do I connect an MCP server to LangChain?",
+    "relevant_titles": ["langchain mcp"]
+  },
+  {
+    "query": "What vector stores can I use with LangChain?",
+    "relevant_titles": ["component-architecture", "integrations providers overview"]
+  },
+
+  {
+    "query": "How do I tokenize text into words?",
+    "relevant_titles": ["book ch03"]
+  },
+  {
+    "query": "How does part-of-speech tagging work?",
+    "relevant_titles": ["book ch05"]
+  },
+  {
+    "query": "How do I train a text classifier with NLTK?",
+    "relevant_titles": ["classify", "book ch06", "book ch07"]
+  },
+  {
+    "query": "How do I extract named entities from a sentence?",
+    "relevant_titles": ["book ch07"]
+  },
+
+  {
+    "query": "How do I chain multiple transformers together in scikit-learn?",
+    "relevant_titles": ["modules compose"]
+  },
+  {
+    "query": "How do I make a transformer output a pandas DataFrame?",
+    "relevant_titles": ["modules df output transform", "modules compose"]
+  },
+  {
+    "query": "How do I compute TF-IDF features from text in scikit-learn?",
+    "relevant_titles": ["modules feature extraction"]
+  },
+
+  {
+    "query": "How do I fine-tune a Sentence Transformers model?",
+    "relevant_titles": ["sentence transformer training overview"]
+  },
+  {
+    "query": "How do I save a tokenizer in Sentence Transformers?",
+    "relevant_titles": ["sentence transformer modules", "package reference"]
+  },
+  {
+    "query": "What is semantic search using sentence embeddings?",
+    "relevant_titles": ["docs quickstart", "sentence transformer"]
+  },
+
+  {
+    "query": "How do I get started with FAISS?",
+    "relevant_titles": ["faiss wiki"]
+  },
+  {
+    "query": "What types of indexes does FAISS support?",
+    "relevant_titles": ["faiss wiki"]
+  }
+]

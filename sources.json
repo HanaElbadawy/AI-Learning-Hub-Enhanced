@@ -1,0 +1,101 @@
+[
+  {
+    "name": "langchain",
+    "start_url": "https://docs.langchain.com/oss/python/langchain/overview",
+    "allowed_path_prefix": "https://docs.langchain.com/oss/python/langchain/",
+    "max_pages": 200,
+    "request_delay": 1.0,
+    "note": "دمجنا langchain_rag و langchain_agents هنا لأن الـ 3 كان عندهم نفس النطاق بالظبط"
+  },
+  {
+    "name": "langgraph",
+    "start_url": "https://docs.langchain.com/oss/python/langgraph/overview",
+    "allowed_path_prefix": "https://docs.langchain.com/oss/python/langgraph/",
+    "max_pages": 100,
+    "request_delay": 1.0
+  },
+  {
+    "name": "huggingface_transformers",
+    "start_url": "https://huggingface.co/docs/transformers/main/en/index",
+    "allowed_path_prefix": "https://huggingface.co/docs/transformers/main/en/",
+    "max_pages": 150,
+    "request_delay": 1.0
+  },
+  {
+    "name": "huggingface_tokenizers",
+    "start_url": "https://huggingface.co/docs/transformers/main/en/tokenizer_summary",
+    "allowed_path_prefix": "https://huggingface.co/docs/transformers/main/en/",
+    "max_pages": 80,
+    "request_delay": 1.0
+  },
+  {
+    "name": "huggingface_tasks",
+    "start_url": "https://huggingface.co/docs/transformers/main/en/tasks",
+    "allowed_path_prefix": "https://huggingface.co/docs/transformers/main/en/",
+    "max_pages": 100,
+    "request_delay": 1.0
+  },
+  {
+    "name": "faiss",
+    "start_url": "https://faiss.ai/",
+    "allowed_path_prefix": "https://faiss.ai/",
+    "max_pages": 100,
+    "request_delay": 1.0
+  },
+  {
+    "name": "sentence_transformers",
+    "start_url": "https://sbert.net/",
+    "allowed_path_prefix": "https://sbert.net/",
+    "max_pages": 120,
+    "request_delay": 1.0
+  },
+  {
+    "name": "sentence_transformers_semantic_search",
+    "start_url": "https://www.sbert.net/examples/applications/semantic-search/README.html",
+    "allowed_path_prefix": "https://www.sbert.net/examples/",
+    "max_pages": 80,
+    "request_delay": 1.0
+  },
+  {
+    "name": "scikit_learn",
+    "start_url": "https://scikit-learn.org/stable/user_guide.html",
+    "allowed_path_prefix": "https://scikit-learn.org/stable/",
+    "max_pages": 150,
+    "request_delay": 1.0
+  },
+  {
+    "name": "pytorch",
+    "start_url": "https://docs.pytorch.org/docs/stable/index.html",
+    "allowed_path_prefix": "https://docs.pytorch.org/docs/stable/",
+    "max_pages": 200,
+    "request_delay": 1.0
+  },
+  {
+    "name": "tensorflow",
+    "start_url": "https://www.tensorflow.org/guide",
+    "allowed_path_prefix": "https://www.tensorflow.org/",
+    "max_pages": 150,
+    "request_delay": 1.0
+  },
+  {
+    "name": "keras",
+    "start_url": "https://keras.io/",
+    "allowed_path_prefix": "https://keras.io/",
+    "max_pages": 150,
+    "request_delay": 1.0
+  },
+  {
+    "name": "spacy",
+    "start_url": "https://spacy.io/usage",
+    "allowed_path_prefix": "https://spacy.io/",
+    "max_pages": 120,
+    "request_delay": 1.0
+  },
+  {
+    "name": "nltk",
+    "start_url": "https://www.nltk.org/book/ch01.html",
+    "allowed_path_prefix": "https://www.nltk.org/book/",
+    "max_pages": 20,
+    "note": "مكنش موجود في الليستة اللي بعتيها - رجّعته لأنه كان شغال ومختبَر قبل كده. امسحيه لو قصدك كان تشيليه فعلاً."
+  }
+]
