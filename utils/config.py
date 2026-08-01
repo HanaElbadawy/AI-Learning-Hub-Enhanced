@@ -70,7 +70,7 @@ MAX_PAGES = int(_get("MAX_PAGES", 150))
 
 # ---------- Retrieval ----------
 TOP_K = int(_get("TOP_K", 5))
-HYBRID_ALPHA = float(_get("HYBRID_ALPHA", 0.5))  # وزن الـ semantic مقابل lexical
+HYBRID_ALPHA = float(_get("HYBRID_ALPHA", 0.8))  # وزن الـ semantic مقابل lexical
 
 # ---------- Paths ----------
 DATA_RAW_DIR = ROOT_DIR / "data" / "raw"
