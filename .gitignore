@@ -1,4 +1,4 @@
-.env
+﻿.env
 .streamlit/secrets.toml
 __pycache__/
 *.pyc
@@ -6,10 +6,8 @@ __pycache__/
 .venv/
 venv/
 
-# ملاحظة: vector_store/ و data/processed/ *مش* متجاهلين عمدًا —
-# لازم يترفعوا على GitHub عشان النسخة المنشورة (Streamlit Cloud) تشتغل
-# على طول من غير ما تعيد الـ scraping/embedding كل مرة.
-# data/raw/ لسه متجاهل لأنه كبير ومش لازم وقت التشغيل (بس وقت البناء).
+# vector_store/ و data/processed/ *مش* متجاهلين عمدًا - لازم يترفعوا
+# على GitHub عشان النسخة المنشورة تشتغل على طول
 data/raw/
 evaluation/metrics_report.csv
 evaluation/failure_log.csv
